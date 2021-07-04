@@ -2,8 +2,7 @@
 
 I'm a Fullstack Web Developer from Lahore, Pakistan. 
 
-💻 Software Engineer at Awell Health — *April 2021 to Present*   
-💻 Software Engineer at Phaedra Solutions — *June 2020 to current*  
+💻 Software Engineer at Phaedra Solutions — *June 2020 to Present*  
 🎓 BS(CS) from COMSATS, Lahore — *August 2016 to July 2020*  
 💻 Fullstack Developer (Freelance) — *2017 to 2019*  
 🧭 Got first paid project — *Aug 2017*  
